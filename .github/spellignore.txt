@@ -95,6 +95,7 @@ HTC
 IDEs
 IEA
 Ing
+IoT
 ISCB
 iteratively
 Jena
